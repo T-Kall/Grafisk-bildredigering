@@ -1,2 +1,3 @@
 # Grafisk-bildredigering
-Egen design skapad i Adobe XD
+Egen design skapad i Adobe XD.
+
