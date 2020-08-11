@@ -1,3 +1,4 @@
 # Grafisk-bildredigering
-Egen design skapad i Adobe XD.
+Designuppgift. Egen design skapad i Adobe XD samt Indesign
+
 
